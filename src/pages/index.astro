@@ -1,0 +1,27 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Slider from "../components/Slider";
+---
+
+<Layout title="Driving Practice Test">
+  <main class="flex flex-col items-center p-3">
+    <div class="flex flex-col items-center w-full mt-5">
+      <h1 class="text-white text-3xl text-center">Driving Practice Test</h1>
+      <p class="text-white text-sm mt-2">
+        Our online test helps NZ learners and drivers review key road safety
+        rules.
+      </p>
+    </div>
+    <div class="container mt-5">
+      <Slider
+        client:only="react"
+        images={[
+          "screen_1.jpg",
+          "screen_2.jpg",
+          "screen_3.jpg",
+          "screen_4.jpg",
+        ]}
+      />
+    </div>
+  </main>
+</Layout>
