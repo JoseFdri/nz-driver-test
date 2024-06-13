@@ -1,18 +1,58 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import Slider from "../components/Slider";
+import { Button } from "../components/Button";
+import { Image } from "astro:assets";
 ---
 
 <Layout title="Driving Practice Test">
-  <main class="flex flex-col items-center p-3">
-    <div class="flex flex-col items-center w-full mt-5">
-      <h1 class="text-white text-3xl text-center">Driving Practice Test</h1>
-      <p class="text-white text-sm mt-2">
+  <main class="flex flex-col items-center">
+    <div class="flex flex-col items-center w-full mt-5 md:mt-20 p-3">
+      <h1 class="text-white text-3xl md:text-5xl text-center">
+        Driving Practice Test
+      </h1>
+      <p class="text-white text-sm mt-5">
         Our online test helps NZ learners and drivers review key road safety
         rules.
       </p>
     </div>
-    <div class="container mt-5">
+    <div class="mt-5 md:mt-10 w-full bg-[#1E1E2D] py-8 md:block hidden">
+      <div class="md:flex justify-center">
+        <div class="mx-4">
+          <Image
+            src="/assets/images/screen_1.jpg"
+            alt="Screen 1"
+            width={400}
+            height={442}
+          />
+        </div>
+        <div class="mx-2">
+          <Image
+            src="/assets/images/screen_2.jpg"
+            alt="Screen 2"
+            width={400}
+            height={442}
+          />
+        </div>
+        <div class="mx-2">
+          <Image
+            src="/assets/images/screen_3.jpg"
+            alt="Screen 3"
+            width={400}
+            height={442}
+          />
+        </div>
+        <div class="mx-2">
+          <Image
+            src="/assets/images/screen_4.jpg"
+            alt="Screen 4"
+            width={400}
+            height={442}
+          />
+        </div>
+      </div>
+    </div>
+    <div class="w-full mt-5 md:hidden">
       <Slider
         client:only="react"
         images={[
@@ -22,6 +62,15 @@ import Slider from "../components/Slider";
           "screen_4.jpg",
         ]}
       />
+    </div>
+    <div class="my-7 md:my-10">
+      <span class="text-white text-2xl md:text-3xl"> Only for 5 NZD! </span>
+    </div>
+    <Button text="Continue" />
+    <div class="mt-2">
+      <span class="text-white"
+        >or <a href="#" class="underline">Sign in</a></span
+      >
     </div>
   </main>
 </Layout>

@@ -1,0 +1,24 @@
+---
+import Layout from "../layouts/Layout.astro";
+import SingleChoiceQuestion from "../components/SingleChoiceQuestion";
+import questionsData from "@data/questions";
+
+const randomIntFromInterval = (min: number, max: number) => {
+  // min and max included
+  return Math.floor(Math.random() * (max - min + 1) + min);
+};
+const questionsId = randomIntFromInterval(1, 110);
+const questions = questionsData[`question_${questionsId}`]
+---
+
+<Layout title="Driver test">
+  <main class="flex flex-col items-center">
+    {
+      questions.map((question) => (
+        <SingleChoiceQuestion question={question} client:only="react">
+
+        </SingleChoiceQuestion>
+      ))
+    }
+  </main>
+</Layout>

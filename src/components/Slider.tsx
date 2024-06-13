@@ -33,6 +33,7 @@ const Slider: React.FC<SliderProps> = ({ images }) => {
   useEffect(() => {
     setSlideWith(visorRef.current?.offsetWidth);
   }, [visorRef]);
+  
   return (
     <div
       {...handlers}
@@ -70,6 +71,7 @@ const Slider: React.FC<SliderProps> = ({ images }) => {
       <div className="flex justify-center mt-5">
         {images.map((_, i) => (
           <div
+            key={`slide-bullet-${i}`}
             onClick={() => setCurrentSlide(i)}
             className={`${
               i === currentSlide ? "bg-white" : ""

@@ -1,0 +1,955 @@
+[
+    {
+        "ID": 12,
+        "Image": null,
+        "Question": "What is the purpose of the 2-second rule? ",
+        "Answers": [
+            {
+                "ID": 45,
+                "Answer": "To provide a safe following distance between vehicles traveling at the same speed",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 46,
+                "Answer": "To ensure that vehicles have sufficient stopping time when approaching intersections",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 47,
+                "Answer": "To avoid gridlocks in congested driving areas",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 48,
+                "Answer": "To ensure the speed limit is observed",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 217,
+        "Image": "/assets/Images/practice-test/I31-practice-test.png",
+        "Question": "Does the driver of the blue car have to give way?",
+        "Answers": [
+            {
+                "ID": 761,
+                "Answer": "Yes",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 762,
+                "Answer": "No",
+                "Image": null,
+                "Correct": true
+            }
+        ]
+    },
+    {
+        "ID": 9,
+        "Image": null,
+        "Question": "You are waiting at a railway level crossing and the red lights continue to flash after the train has passed. What should you do? ",
+        "Answers": [
+            {
+                "ID": 33,
+                "Answer": "Drive on carefully while the lights are still flashing ",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 34,
+                "Answer": "Stay stopped until the lights stop flashing",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 35,
+                "Answer": "Check both ways and then drive on",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 36,
+                "Answer": "Wait for 15 seconds and then drive on",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 789,
+        "Image": null,
+        "Question": "To tow a trailer on a restricted driver licence, the weight of your vehicle plus the weight of the trailer and its load must not exceed what weight?",
+        "Answers": [
+            {
+                "ID": 2786,
+                "Answer": "5000kg",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 2787,
+                "Answer": "4500kg",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 2788,
+                "Answer": "4000kg ",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 2789,
+                "Answer": "3500kg ",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 190,
+        "Image": "/assets/Images/practice-test/I3-practice-test.png",
+        "Question": "Does the driver of the blue car have to give way?",
+        "Answers": [
+            {
+                "ID": 707,
+                "Answer": "Yes",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 708,
+                "Answer": "No",
+                "Image": null,
+                "Correct": true
+            }
+        ]
+    },
+    {
+        "ID": 785,
+        "Image": null,
+        "Question": "Can medication from your doctor affect your driving?",
+        "Answers": [
+            {
+                "ID": 2774,
+                "Answer": "No",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 2775,
+                "Answer": "Yes ",
+                "Image": null,
+                "Correct": true
+            }
+        ]
+    },
+    {
+        "ID": 353,
+        "Image": "/assets/Images/Road-Code/Milestone/Module/Questions/Bus-stop.png",
+        "Question": "What does this sign mean?",
+        "Answers": [
+            {
+                "ID": 1129,
+                "Answer": "You may stop your vehicle if there are no buses coming",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 1130,
+                "Answer": "You may stop your vehicle between 6pm and 8am except on Fridays and Saturdays",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 1131,
+                "Answer": "You may stop your vehicle if someone stays with it",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 1132,
+                "Answer": "You may not stop your vehicle at any time",
+                "Image": null,
+                "Correct": true
+            }
+        ]
+    },
+    {
+        "ID": 784,
+        "Image": null,
+        "Question": "What is shown by a white reflector (cat’s eye) placed on the road?",
+        "Answers": [
+            {
+                "ID": 2770,
+                "Answer": "The left side of the road",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 2771,
+                "Answer": "The centre of the road",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 2772,
+                "Answer": "No passing",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 2773,
+                "Answer": "The far right side of the road",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 119,
+        "Image": null,
+        "Question": "You should check that there is space for your vehicle on the other side of the crossing before going over a railway level crossing.",
+        "Answers": [
+            {
+                "ID": 449,
+                "Answer": "True",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 450,
+                "Answer": "False",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 25,
+        "Image": null,
+        "Question": "What must you do if you want to turn right at traffic signals where a green light is showing?",
+        "Answers": [
+            {
+                "ID": 87,
+                "Answer": "Push your way through the vehicles coming towards you",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 88,
+                "Answer": "Give way to vehicles coming towards you",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 89,
+                "Answer": "Wait until the lights change to red and then turn quickly",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 90,
+                "Answer": "Turn at once as the vehicles coming towards you will be stopped",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 143,
+        "Image": null,
+        "Question": "If you have a front tyre blowout, the vehicle will:",
+        "Answers": [
+            {
+                "ID": 533,
+                "Answer": "pull to the side with the blowout",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 534,
+                "Answer": "pull away from the side with the blowout",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 535,
+                "Answer": "sway from side to side",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 536,
+                "Answer": "slow down",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 127,
+        "Image": null,
+        "Question": "At night, a towed vehicle must:",
+        "Answers": [
+            {
+                "ID": 479,
+                "Answer": "have a red light at the back",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 480,
+                "Answer": "have its hazard lights on",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 481,
+                "Answer": "be sounding its horn",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 482,
+                "Answer": "be travelling slower than 50km/h",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 126,
+        "Image": null,
+        "Question": "Which parts of the car must be in good condition to prevent too much noise and gases entering the car?",
+        "Answers": [
+            {
+                "ID": 475,
+                "Answer": "Good mud guards and mud flaps",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 476,
+                "Answer": "A good silencer and exhaust system",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 477,
+                "Answer": "Good sun visors and windscreen",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 478,
+                "Answer": "An efficient carburettor and heater",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 39,
+        "Image": null,
+        "Question": "You may park your vehicle on a loading zone when: ",
+        "Answers": [
+            {
+                "ID": 137,
+                "Answer": "you are loading or unloading people or goods",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 138,
+                "Answer": "there is no other vehicle on it",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 139,
+                "Answer": "it is between the hours of 12am and 6am",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 140,
+                "Answer": "it is between the hours of 6pm and 6am",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 67,
+        "Image": null,
+        "Question": "What must you do at an intersection controlled by a Stop sign?",
+        "Answers": [
+            {
+                "ID": 247,
+                "Answer": "Come to a complete stop",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 248,
+                "Answer": "Slow down and be prepared to stop",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 249,
+                "Answer": "Stop only if you can do so safely",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 250,
+                "Answer": "Continue driving unless you can see an oncoming vehicle",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 122,
+        "Image": null,
+        "Question": "Your vehicle has a current warrant of fitness but a rear red brake light (stop light) is not working. What should you do?",
+        "Answers": [
+            {
+                "ID": 459,
+                "Answer": "Continue to drive the vehicle",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 460,
+                "Answer": "Only use the vehicle during daylight hours",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 461,
+                "Answer": "Have the fault repaired immediately",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 462,
+                "Answer": "Only use the vehicle in a 50km/h speed zone",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 202,
+        "Image": "/assets/Images/practice-test/I17-practice-test.png",
+        "Question": "Does the driver of the blue car have to give way?",
+        "Answers": [
+            {
+                "ID": 731,
+                "Answer": "Yes",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 732,
+                "Answer": "No",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 213,
+        "Image": "/assets/Images/practice-test/I27-practice-test.png",
+        "Question": "Does the driver of the blue car have to give way?",
+        "Answers": [
+            {
+                "ID": 753,
+                "Answer": "Yes",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 754,
+                "Answer": "No",
+                "Image": null,
+                "Correct": true
+            }
+        ]
+    },
+    {
+        "ID": 20,
+        "Image": null,
+        "Question": "Directions from a police officer overrule traffic signals, road signs and give way rules at an intersection.",
+        "Answers": [
+            {
+                "ID": 69,
+                "Answer": "True",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 70,
+                "Answer": "False",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 195,
+        "Image": "/assets/Images/practice-test/I9-practice-test.png",
+        "Question": "Does the driver of the blue car have to give way?",
+        "Answers": [
+            {
+                "ID": 717,
+                "Answer": "Yes",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 718,
+                "Answer": "No",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 171,
+        "Image": "/assets/Images/Learning-tool/Milestone/Module/Questions/Accident.png",
+        "Question": "What does this sign mean?",
+        "Answers": [
+            {
+                "ID": 639,
+                "Answer": "There has been a crash – slow down to 20km/h when passing this sign until you have passed the crash",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 640,
+                "Answer": "There have been crashes here in the past – slow down",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 641,
+                "Answer": "There has been a crash – but the road is clear now",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 642,
+                "Answer": "This is an accident black spot",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 77,
+        "Image": null,
+        "Question": "What does it mean if yellow traffic signals are flashing? ",
+        "Answers": [
+            {
+                "ID": 285,
+                "Answer": "That a crash has just happened",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 286,
+                "Answer": "The traffic signals are not working, apply the give way rules",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 287,
+                "Answer": "Vehicles may only proceed straight ahead and not turn",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 288,
+                "Answer": "Emergency vehicles are about to come through",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 114,
+        "Image": null,
+        "Question": "You look in the mirror and see a cyclist – what should you do when opening the car door?",
+        "Answers": [
+            {
+                "ID": 429,
+                "Answer": "Open the door and expect the cyclist to stop",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 430,
+                "Answer": "Open the door and expect the cyclist to swerve",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 431,
+                "Answer": "Wait for the cyclist to go past before opening the door",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 432,
+                "Answer": "Warn the cyclist by sounding the horn before opening the door",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 142,
+        "Image": null,
+        "Question": "Who is responsible for making a child under 14 years use a seat belt or a safety seat in a vehicle?",
+        "Answers": [
+            {
+                "ID": 529,
+                "Answer": "The child’s parents",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 530,
+                "Answer": "The driver of the vehicle",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 531,
+                "Answer": "The owner of the vehicle",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 532,
+                "Answer": "The child",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 71,
+        "Image": null,
+        "Question": "Flush medians can be used when:",
+        "Answers": [
+            {
+                "ID": 261,
+                "Answer": "passing other vehicles",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 262,
+                "Answer": "stopping at traffic signals",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 263,
+                "Answer": "waiting to turn right",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 264,
+                "Answer": "parking for 5 minutes only",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 209,
+        "Image": "/assets/Images/practice-test/I23-practice-test.png",
+        "Question": "Does the driver of the blue car have to give way?",
+        "Answers": [
+            {
+                "ID": 745,
+                "Answer": "Yes",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 746,
+                "Answer": "No",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 110,
+        "Image": null,
+        "Question": "How can small amounts of alcohol affect your driving?",
+        "Answers": [
+            {
+                "ID": 413,
+                "Answer": "You can judge your speed more easily",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 414,
+                "Answer": "Your driving improves",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 415,
+                "Answer": "It will alter your senses",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 416,
+                "Answer": "Your driving reactions will be quicker",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 57,
+        "Image": null,
+        "Question": "What should you do if an ambulance comes up behind you, flashing red lights or sounding its siren?",
+        "Answers": [
+            {
+                "ID": 210,
+                "Answer": "Speed up to avoid delay",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 211,
+                "Answer": "Put your vehicle hazard lights on and drive on at the same speed",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 212,
+                "Answer": "Slow down, pull over and allow the ambulance to pass",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 213,
+                "Answer": "Flash your vehicle headlights to warn oncoming traffic",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 61,
+        "Image": null,
+        "Question": "A broken yellow line painted close to the edge of the road means you may stop or park your vehicle there at any time.",
+        "Answers": [
+            {
+                "ID": 225,
+                "Answer": "True",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 226,
+                "Answer": "False",
+                "Image": null,
+                "Correct": true
+            }
+        ]
+    },
+    {
+        "ID": 103,
+        "Image": null,
+        "Question": "What should you do if the vehicle behind you wishes to pass? ",
+        "Answers": [
+            {
+                "ID": 387,
+                "Answer": "Move to the centre so that they cannot pass",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 388,
+                "Answer": "Speed up so that they will not need to pass",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 389,
+                "Answer": "Move as far to the left side of the road as is safe",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 390,
+                "Answer": "Slow down and signal right.",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 135,
+        "Image": null,
+        "Question": "You have a restricted licence. A condition for driving at night without a supervisor is that you MUST NOT drive between:",
+        "Answers": [
+            {
+                "ID": 509,
+                "Answer": "8pm to 6am",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 510,
+                "Answer": "10pm to 5am",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 511,
+                "Answer": "10pm to 6am",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 512,
+                "Answer": "11am and 7am",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 79,
+        "Image": null,
+        "Question": "What must you do when you come up to a red light showing at traffic signals?",
+        "Answers": [
+            {
+                "ID": 293,
+                "Answer": "Stop and then go on carefully",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 294,
+                "Answer": "Go on slowly if no other traffic is coming",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 295,
+                "Answer": "Stop only if other vehicles are coming from the right",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 296,
+                "Answer": "Stop and wait until it changes to a green light",
+                "Image": null,
+                "Correct": true
+            }
+        ]
+    },
+    {
+        "ID": 83,
+        "Image": "/assets/Images/practice-test/RP2-practice-test.png",
+        "Question": "When turning right from a two-laned road into a one-way street that has two lanes, which lane must you turn into?",
+        "Answers": [
+            {
+                "ID": 305,
+                "Answer": "The right-hand lane",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 306,
+                "Answer": "The left-hand lane",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 307,
+                "Answer": "The lane that has the least vehicles",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 310,
+                "Answer": "The lane that gives you the most direct route",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    },
+    {
+        "ID": 194,
+        "Image": "/assets/Images/practice-test/I8-practice-test.png",
+        "Question": "Does the driver of the blue car have to give way?",
+        "Answers": [
+            {
+                "ID": 715,
+                "Answer": "Yes",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 716,
+                "Answer": "No",
+                "Image": null,
+                "Correct": true
+            }
+        ]
+    },
+    {
+        "ID": 778,
+        "Image": "/assets/Images/practice-test/C14-practice-test.png",
+        "Question": "When coming to a pedestrian crossing with a raised traffic island in the middle, what must you do?",
+        "Answers": [
+            {
+                "ID": 2750,
+                "Answer": "Give way to pedestrians who are on your half of the road",
+                "Image": null,
+                "Correct": true
+            },
+            {
+                "ID": 2751,
+                "Answer": "Give way to pedestrians on the other side of the road",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 2752,
+                "Answer": "Remain stopped until the pedestrian has reached the other side of the road",
+                "Image": null,
+                "Correct": false
+            },
+            {
+                "ID": 2753,
+                "Answer": "Drive on as pedestrians will give way to all on coming traffic",
+                "Image": null,
+                "Correct": false
+            }
+        ]
+    }
+]
